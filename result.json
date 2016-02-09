@@ -1,0 +1,97 @@
+[
+  {
+    "a": "Gambar",
+    "href": "http://www.google.co.id/imghp?hl=id&tab=wi",
+    "css": "gb1"
+  },
+  {
+    "a": "Maps",
+    "href": "http://maps.google.co.id/maps?hl=id&tab=wl",
+    "css": "gb1"
+  },
+  {
+    "a": "YouTube",
+    "href": "http://www.youtube.com/?gl=ID&tab=w1",
+    "css": "gb1"
+  },
+  {
+    "a": "Berita",
+    "href": "http://news.google.co.id/nwshp?hl=id&tab=wn",
+    "css": "gb1"
+  },
+  {
+    "a": "Gmail",
+    "href": "https://mail.google.com/mail/?tab=wm",
+    "css": "gb1"
+  },
+  {
+    "a": "Drive",
+    "href": "https://drive.google.com/?tab=wo",
+    "css": "gb1"
+  },
+  {
+    "a": "Kalender",
+    "href": "https://www.google.com/calendar?tab=wc",
+    "css": "gb1"
+  },
+  {
+    "a": "Lainnya »",
+    "href": "https://www.google.co.id/intl/id/options/",
+    "css": "gb1"
+  },
+  {
+    "a": "Riwayat Web",
+    "href": "http://www.google.co.id/history/optout?hl=id",
+    "css": "gb4"
+  },
+  {
+    "a": "Setelan",
+    "href": "http://google.com/preferences?hl=id",
+    "css": "gb4"
+  },
+  {
+    "a": "Masuk",
+    "href": "https://accounts.google.com/ServiceLogin?hl=id&passive=true&continue=http://www.google.co.id/%3Fgws_rd%3Dcr%26ei%3Dj8G5Vv3dLcmXuASJuI3ICA",
+    "css": "gb4"
+  },
+  {
+    "a": "Dapatkan Google Chrome",
+    "href": "http://google.com/chrome/browser/?hl=id&brand=CHNG&utm_source=id-hpp&utm_medium=hpp&utm_campaign=id"
+  },
+  {
+    "a": "Penelusuran lanjutan",
+    "href": "http://google.com/advanced_search?hl=id&authuser=0"
+  },
+  {
+    "a": "Perangkat bahasa",
+    "href": "http://google.com/language_tools?hl=id&authuser=0"
+  },
+  {
+    "a": "English",
+    "href": "http://www.google.co.id/setprefs?sig=0_IXLMqT2UjH-FPWl8S9XZgDgArOc%3D&hl=en&source=homepage"
+  },
+  {
+    "a": "Basa Jawa",
+    "href": "http://www.google.co.id/setprefs?sig=0_IXLMqT2UjH-FPWl8S9XZgDgArOc%3D&hl=jw&source=homepage"
+  },
+  {
+    "a": "Basa Bali",
+    "href": "http://www.google.co.id/setprefs?sig=0_IXLMqT2UjH-FPWl8S9XZgDgArOc%3D&hl=ban&source=homepage"
+  },
+  {
+    "a": "Program Periklanan",
+    "href": "http://google.com/intl/id/ads/"
+  },
+  {
+    "a": "Solusi Bisnis",
+    "href": "http://www.google.co.id/intl/id/services/"
+  },
+  {
+    "a": "Serba-serbi Google",
+    "href": "http://google.com/intl/id/about.html"
+  },
+  {
+    "a": "Google.com",
+    "href": "http://www.google.co.id/setprefdomain?prefdom=US&sig=__3XAD76tnZCPIl3_hw_bNYgTe88E%3D"
+  }
+]
