@@ -1,0 +1,22 @@
+{
+  "name": "simple-xray-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indrango/simple-xray-scraping.git"
+  },
+  "author": "Indra Nugraha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indrango/simple-xray-scraping/issues"
+  },
+  "homepage": "https://github.com/indrango/simple-xray-scraping#readme",
+  "dependencies": {
+    "x-ray": "^2.0.3"
+  }
+}
